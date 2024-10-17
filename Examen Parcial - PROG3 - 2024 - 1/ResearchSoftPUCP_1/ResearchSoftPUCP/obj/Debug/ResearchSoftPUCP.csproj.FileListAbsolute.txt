@@ -1,0 +1,64 @@
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll.config
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.pdb
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.AssemblyReference.cache
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.dll
+C:\Users\Freddy\OneDrive\LP2\2024-1\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.pdb
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll.config
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\bin\ResearchSoftPUCP.pdb
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.AssemblyReference.cache
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial\ResearchSoftPUCP\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll.config
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCP.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCP.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\obj\Debug\ResearchSoftPUCP.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ReserachSoftPUCPController.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCPDBManager.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCPModel.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\MySql.Data.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Text.Json.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ZstdSharp.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Memory.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.ValueTuple.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Buffers.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ReserachSoftPUCPController.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ReserachSoftPUCPController.dll.config
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCPDBManager.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCPDBManager.dll.config
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\ResearchSoftPUCPModel.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\MySql.Data.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Text.Json.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\Google.Protobuf.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\BouncyCastle.Cryptography.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Memory.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Buffers.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\obj\Debug\Research.22044498.Up2Date
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCP\bin\Microsoft.Bcl.AsyncInterfaces.xml

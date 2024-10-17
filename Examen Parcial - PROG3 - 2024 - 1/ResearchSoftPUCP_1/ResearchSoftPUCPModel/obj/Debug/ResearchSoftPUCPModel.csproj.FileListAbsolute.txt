@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\bin\Debug\ResearchSoftPUCPModel.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\bin\Debug\ResearchSoftPUCPModel.pdb
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\obj\Debug\ResearchSoftPUCPModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\obj\Debug\ResearchSoftPUCPModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\obj\Debug\ResearchSoftPUCPModel.dll
+C:\Users\User\Desktop\Prog3\Examen Parcial - PROG3 - 2024 - 1\ResearchSoftPUCP_1\ResearchSoftPUCPModel\obj\Debug\ResearchSoftPUCPModel.pdb

@@ -1,0 +1,7 @@
+{
+	"base_de_datos": "examen1",
+	"nombre_de_host": "examen1.ccs7y0pjbhpm.us-east-1.rds.amazonaws.com",
+	"puerto": "3306",
+	"usuario": "admin",
+	"contraseña": "123456789"
+}
